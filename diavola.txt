@@ -5,6 +5,7 @@ Ingredients:
 - Pizza dough
 - Salami
 - olives
++ add spicy sausage
 
 Instructions:
 1. Spread tomato sauce on dough.
