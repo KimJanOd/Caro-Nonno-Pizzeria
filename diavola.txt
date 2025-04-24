@@ -1,0 +1,11 @@
+Ingredients:
+- Tomato sauce
+- Fresh mozzarella
+- Olive oil
+- Pizza dough
+- Salami
+
+Instructions:
+1. Spread tomato sauce on dough.
+2. Add mozzarella and salami.
+3. Bake in oven until crispy.
